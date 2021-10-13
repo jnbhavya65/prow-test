@@ -1,7 +1,4 @@
 # prow-test
-test
-bavya
-svvv
 
 adff
 affaf
