@@ -18,22 +18,5 @@ aff
 adfg
 ;kh
 adff
-adfcg
-adfgg
-afgf
-adcvc
-fdsg
-adff
-dsf
-af13a
-dfg
-adrfvv
-afdf
-
-afdf
-adff
-
-adf
-affg
 
 adff
