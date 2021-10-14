@@ -1,3 +1,1 @@
 # prow-test
-axx
-afc
