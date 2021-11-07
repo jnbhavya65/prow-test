@@ -1,4 +1,3 @@
 # prow-test
 
 afs
-ad
